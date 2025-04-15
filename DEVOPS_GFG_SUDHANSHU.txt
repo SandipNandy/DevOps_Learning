@@ -1,0 +1,149 @@
+DevOps30_L1_DevopsIntro(Intro to DevOps-DevOps Lifecycle, Why DevOps, Cloud Computing, AWS Global Infrastructure, Linux Distribution, Virtualization, Launch AWS EC2, Configure Apache Webserver)
+
+
+DevOps30_L2_Networking(SDLC, DevOps Tools Intro, IP Address & Netmask, Networking-SNAT-DNAT-Routers Working, LAN & WAN, VPN Working)
+
+
+DevOps30_L3_LinuxAdminstration(Port Numbers & Protocol, Security Group, Modify Apache Configuration, Webserver Log Monitoring, User&Group Administration, Chmod-Permissions, Super User Privileges)
+
+
+DevOps30_L4_Storage(Yum Repository & Commands, Storage Management-Partition & Formatting, AWS EBS, LVM- PV,VG,LV, Extending Partition, Yum Configuration, HDFS Cluster Introduction)
+
+
+
+DevOps30_L5_ProcessManagement(CPU Scheduling, Systemd & Systemctl, Cgroup, System&User Slice, RAM&CPU Working, Kill Command, Journalctl, Shell Scripting-Loops, Conditions, Input&Output Redirection)
+
+
+
+DevOps30_L6_Firewall(Create and Manage Firewall Rules, Password less login, SSH Authentication Mechanism-Private&Public Key, Backup&Restore, Cronjobs, Public Vs Private Cloud, Cloud Models, IAM&S3)
+
+
+
+DevOps 30_L7_AWS(IAM-Bucket-Policy, Serverless Architecture, Lambda, API Gateway, Rekognisation, CloudWatch, SNS, Host Static Website On S3 And Backend on Lambda, Custom Policy, IAM Roles, AWS CLI)
+
+
+
+
+DevOps 30_L8_AWS&Networking(TCP Protocol And Working Detailed Explanation, OSI Model, AWS Auto Scaling Group, ALB, Target Groups, Custom AMI, Scale Out & Scale In, AutoScaling With ALB Project)
+
+
+
+DevOps 30_L9_AWS&Git(AWS ALB Path Based Routing Practical, Microservices Intro, Git Introduction, DVCS vs CVCS, Git Branches, Merge & Merge Conflicts, Git Three Stage Architecture, Git working)
+
+
+DevOps 30_L10_Git(Git Branching Strategy, Merge Strategies, Git Squash & Cherry-Pick, GitHub Repo, PR, Git Integration With GitHub Via HTTPS & SSH, Git Reset & Revert, Git Imp Commands)
+
+
+
+DevOps 30_L11_Git&Docker(Git Rebase Vs Merge, Git Stash, Interactive Rebase, Git Fork-Clone-Tags-Snapshots, Docker Introduction, Microservices Architecture, Containerization Vs Virtualization)
+
+
+
+
+DevOps 30_L12_Docker(Docker Imp Commands, Images, Architecture, Container LifeCycle, Port Mapping, Dockerfile Introduction, CMD vs Entrypoint, Push Docker Images To DockerHub, Deploy Mario Game)
+
+
+
+DevOps 30_L13_DockerAdvance(Revision, Docker CP Command, Docker Networking Drivers, Create Custom network, Docker Volume, DockerCompose, Deploy Multi Container App - Wordpress, SQL Queries)
+
+
+
+DevOps 30_L14_Jenkins(Why Docker Is So Fast, CI-CD Pipeline Introduction, Jenkins Installation & Setup, MultiNodeCluster, Jenkins jobs and triggers, Build Pipeline for deploying Python flask app)
+
+
+
+DevOps_30_L15_Jenkins&GitHubActions(Jenkinsfile, Pipeline As Code, GitHub Actions & Workflows, SonarQube Server & Analysis, Using Secrets In GitHub Workflows, Writing Jenkinsfile & Github Workflows)
+
+
+
+DevOps_30_L16_GithubActions(SonarQube QualtiyGate & Profile, Code Coverage, Build & Push Docker Images From CI-CD Pipeline, WebHooks, SnakeGame Devployment, Dynamic Worker Node Configuration, CI-CD)
+
+
+
+DevOps 30_L 17: Getting Started with Ansible for Configuration Management
+
+
+
+DevOps 30_L18: Automation with Ansible Playbooks
+
+
+DevOps 30_L19_K8sAdvance(MERN App Deployment on K8s, Pods, Deployments, Secrets, ConfigMap, ReplicaSet, Socat, Pod Logs & Debugging, Volume Types - HostPath, EmptyDir, Pod To Pod Communication, etc)
+
+
+
+DevOps 30_L20_EKS&StatefulSet(Statefulset, EBS as the PV for pods, Headless Service, EKS Multi Node Cluster Setup, IAM OIDC, StorageClass, DB Sharding, Replication in Database, EKS With ALB, project)
+
+
+
+DevOps 30_L21_AWS-ECS(Scaling, Persistent Volume With EBS - Revision, ECS, Fargate, Task Definitions & Services, ECS Integration With EFS, RDS, ALB And ASG, RDS DB)
+
+
+
+DevOps 30_L22_K8sDeployment(Deployment Strategies -  Rolling-Update, Blue-Green, Canary, etc, ECR, Ansible Introduction, Ansible Installation, Ansible Architecture, Inventory File)
+
+
+
+DevOps 30_L23_Ansible(Ansible Playbook, Modules, Configure Apache Server, Tags&Handlers, Ansible Vault, Variables, Loops,Collections, Jinja2,Dynamic inventory, Launch EC2 Instance from Ansible)
+
+
+
+DevOps 30_L24_AnsibleAdvance(Configure multi-node K8s Cluster with Ansible, Ansible Facts, Ansible Roles, Magic Variables, Configure Haproxy Load Balancer, Dynamic Update of Haproxy Cfg file)
+
+
+DevOps 30_L25_Terraform(TerraformIntro-MultiCloud, Terraform Resources, Variables, Providers, MetaArguments, CreateDynamicConfigurationwith"for each", Provision VPC, Subnets, EC2 With Terraform)
+
+
+DevOps 30_L26_TerraformPro(Terraform State Management, Modules, Null Resources, Data Sources, Monitoring - Prometheus & Grafana, Prometheus Installation, Node Exporter, Grafana Dashboards)
+
+
+
+DevOps 30_L27_Monitoring(Expose Docker, MySQL  Metrics, Grafana Custom Dashboards, PromQL, K8s Sidecar & Ambassador Design Pattern, Grafana Alerts To Trigger Jenkins Job, K8s Namespace, AutoScaling)
+
+
+DevOps 30_L28_LastClass(Isto Service Mesh, Istio Gateway, mTLS, Microservice App Deployment on EKS Alongside Istio, Istio Kiali, Admission Controllers,K8s CRD, Taint & Toleration, Message Queue Into)
+
+
+EXTRAS --> 
+Devops_27_L28_EndToEnd_Pipeline_Project(Jenkins Master Pipeline Integrating - GitHubActions, Terraform, Ansible, K8s, Docker, Prometheus, Grafana, K8s Monitoring With Grafana, Helm Charts, DaemonSet)
+
+DevOps24-L23MicroservicesProject&NginxIngress(DeployMicroservicesAppOnEKSWithLoadBalancerAndAutoScalingJenkinsIntegrationWithK8sServiceAccountK8sRBACIngressControllerResource&SSLCertificateManagement)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
